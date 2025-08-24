@@ -7,9 +7,9 @@ By using the mobile app *Where's My Show* you are consenting to the policy outli
 
 ### Collection of Personal Information ###
 
-The app uses Google's AdMob advertising service, which collects anonymous information in accordance to its advertising privacy policies. AdMob's privacy policy is available at <https://policies.google.com/privacy>
+This app uses Google's AdMob advertising service, which collects anonymous information in accordance to its advertising privacy policies. AdMob's privacy policy is available at <https://policies.google.com/technologies/ads?hl=en-US>
 
-Apart from that, the app does not transmit or share any other information, personal or otherwise.
+Apart from that, this app does not collect, transmit or share any other information, personal or otherwise.
 
 ### Email ###
 
