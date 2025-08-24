@@ -21,7 +21,7 @@ We will not disclose your information to any third party except if you expressly
 
 ### Contacting Us ###
 
-If you have any questions regarding this privacy policy, you can email [abc@example.com](mailto:abc@example.com)
+If you have any questions regarding this privacy policy, you can email [trugold.info@gmail.com](mailto:trugold.info@gmail.com)
 
 ### Changes to this Policy ###
 
