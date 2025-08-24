@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Where's My Show
-permalink: /wms_privacy/
+layout: default
 ---
 ### Privacy Policy ###  
 
