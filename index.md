@@ -7,7 +7,4 @@ layout: default
 
 ## Apps and other activity ##
 
-### Where's My Show? ###
-
-- [Privacy Policy](wms/privacy.md)
-- [Support](wms/support.md)
+### [Where's My Show?](https://trugold.github.io/wheres-my-show) ###
