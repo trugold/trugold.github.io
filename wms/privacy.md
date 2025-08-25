@@ -26,3 +26,5 @@ If you have any questions regarding this privacy policy, you can email [trugold.
 ### Changes to this Policy ###
 
 Changes to this policy will be posted here.
+
+[back](../index.md)
