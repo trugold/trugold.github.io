@@ -4,7 +4,8 @@
 
 layout: default
 ---
+# Home
 
-## Apps and other activity ##
+## Apps and other activity
 
-### [Where's My Show?](https://trugold.github.io/wheres-my-show) ###
+### [Where's My Show?](https://trugold.github.io/wheres-my-show)
